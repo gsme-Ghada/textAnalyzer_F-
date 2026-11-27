@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net11.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="tokenizer.fs" />
+    <Compile Include="text_input.fs" />
+    <Compile Include="counting.fs" />
+    <Compile Include="frequency.fs" />
+    <Compile Include="readability.fs" />
+    <Compile Include="gui.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
