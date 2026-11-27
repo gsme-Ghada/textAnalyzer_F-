@@ -50,11 +50,11 @@ dotnet run
 |---|---|
 | _Name_ | GUI (`gui.fs`) |
 | _Name_ | Text input (`text_input.fs`) |
-| _Name_ | Counting (`counting.fs`) |
-| _Name_ | Tokenizer (`tokenizer.fs`) |
-| _Name_ | Word frequency (`frequency.fs`) |
-| _Name_ | Readability (`readability.fs`) |
-| _Name_ | Integration, testing, and docs (`Program.fs`, `README.md`) |
+| shahd | Counting (`counting.fs`) |
+| ghada | Tokenizer (`tokenizer.fs`) |
+| sama | Word frequency (`frequency.fs`) |
+| fatma | Readability (`readability.fs`) |
+| abdelrahman | Integration, testing, and docs (`Program.fs`, `README.md`) |
 
 ## Git Workflow
 
