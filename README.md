@@ -48,13 +48,13 @@ dotnet run
 
 | Member | Part |
 |---|---|
-| _Name_ | GUI (`gui.fs`) |
-| _Name_ | Text input (`text_input.fs`) |
+| abdelrahman adel | GUI (`gui.fs`) |
+| abdallah  | Text input (`text_input.fs`) |
 | shahd | Counting (`counting.fs`) |
 | ghada | Tokenizer (`tokenizer.fs`) |
 | sama | Word frequency (`frequency.fs`) |
 | fatma | Readability (`readability.fs`) |
-| abdelrahman | Integration, testing, and docs (`Program.fs`, `README.md`) |
+| abdelrahman magdy | Integration, testing, and docs (`Program.fs`, `README.md`) |
 
 ## Git Workflow
 
